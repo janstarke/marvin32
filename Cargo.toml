@@ -1,11 +1,11 @@
 [package]
 name = "marvin32"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["Jan Starke <jan.starke@posteo.de>", "Muteb Alqahtani <muteb@securitycolumns.com>"]
 license = "GPL-3.0"
 description = "implements the marvin32 hash function"
-repository = "https://github.com/janstarke/nt-hive2"
+repository = "https://github.com/janstarke/marvin32"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
